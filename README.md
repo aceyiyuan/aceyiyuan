@@ -10,5 +10,7 @@
 
 💬 Ask me about machine learning, data collection, processing, and visualization. I also have knowledge in the healthcare field.
 
+👾 Fun fact: Coding for enjoyment may help programmers weather changes in the IT industry and remain content in their work.
+
 📫 How to reach me: You can email me at org.sugar@gmail.com.
 
