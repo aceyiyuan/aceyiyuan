@@ -6,6 +6,8 @@
 
 👯 I’m looking to collaborate on projects that use the Django framework. Send me a message if you need a hand.
 
+👨🏻‍💻 Most of my projects from last year were written in Python.
+
 💬 Ask me about machine learning, data collection, processing, and visualization. I also have knowledge in the healthcare field.
 
 📫 How to reach me: You can email me at org.sugar@gmail.com.
