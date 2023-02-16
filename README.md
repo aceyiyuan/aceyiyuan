@@ -14,3 +14,51 @@
 
 📫 How to reach me: You can email me at org.sugar@gmail.com.
 
+
+<table width="320px">
+    <tbody>
+        <tr>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
+            </td>
+             <td width="80px" align="center">
+              <span><strong>JS</strong></span><br>
+              <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
+            </td>
+             <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Django</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Flask</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>SQL</strong></span><br>
+            <img height="32px" src="https://cdn-icons-png.flaticon.com/512/5815/5815809.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>PSQL</strong></span><br>
+            <img height="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968277.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <td width="80px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="32px" src="https://pic.onlinewebfonts.com/svg/img_207455.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aceyiyuan&show_icons=true&theme=dark"/>
