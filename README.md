@@ -14,7 +14,7 @@
 
 📫 How to reach me: You can email me at org.sugar@gmail.com.
 
-🐱‍  Languages and tools I have used for programming
+🐱‍ Some languages and tools I have used for programming:
 
 <table width="320px">
     <tbody>
