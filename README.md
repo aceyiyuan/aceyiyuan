@@ -99,7 +99,7 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             </td> 
             <td width="80px" align="center">
-            <span><strong>Git</strong></span><br>
+            <span><strong>GCP</strong></span><br>
             <img height="32px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/google_cloud_icon_137536.png">
             </td>   
         </tr>
