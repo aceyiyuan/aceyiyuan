@@ -32,6 +32,10 @@
               <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
             </td>
              <td width="80px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">
+            </td>
+            <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg">
             </td>
@@ -54,11 +58,7 @@
             <td width="80px" align="center">
             <span><strong>MongoDB</strong></span><br>
             <img height="32px" src="https://pic.onlinewebfonts.com/svg/img_207455.png">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>R</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
-            </td>
+            </td>    
         </tr>
         <br>
         <tr valign="top">
@@ -91,8 +91,8 @@
             <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg">
            </td>
            <td width="80px" align="center">
-            <span><strong>Bash</strong></span><br>
-            <img height="32px" src="https://img.icons8.com/small/512/bash.png">
+            <span><strong>R</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
            </td>
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
