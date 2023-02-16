@@ -14,10 +14,11 @@
 
 📫 How to reach me: You can email me at org.sugar@gmail.com.
 
+🐱‍  Languages and tools I have used for programming
 
 <table width="320px">
     <tbody>
-        <tr>
+        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
@@ -51,12 +52,56 @@
             <img height="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968277.png">
             </td>
             <td width="80px" align="center">
-            <span><strong>Git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
             <span><strong>MongoDB</strong></span><br>
             <img height="32px" src="https://pic.onlinewebfonts.com/svg/img_207455.png">
             </td>
+            <td width="80px" align="center">
+            <span><strong>R</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
+            </td>
+        </tr>
+        <br>
+        <tr valign="top">
+          <td width="80px" align="center">
+            <span><strong>Pandas</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pandas.svg">
+           </td>
+           <td width="80px" align="center">
+            <span><strong>Numpy</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/numpy.svg">
+           </td>
+           <td width="80px" align="center">
+            <span><strong>Sklearn</strong></span><br>
+            <img height="32px" src="https://static-00.iconduck.com/assets.00/scikit-learn-icon-512x277-sb6q1c5d.png">
+           </td>
+            <td width="80px" align="center">
+            <span><strong>Tensorflow</strong></span><br>
+            <img height="32px" src="https://icons-for-free.com/iconfiles/png/512/tensorflow-1324440242699707768.png">
+           </td>
+            <td width="80px" align="center">
+            <span><strong>ChartJs</strong></span><br>
+            <img height="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRkTKRj1PCdteqX7FjnmJ1IoOUSwd-JGqYjzdCE9i_9g&s">
+           </td>
+           <td width="80px" align="center">
+            <span><strong>Matlab</strong></span><br>
+            <img height="32px" src="https://w7.pngwing.com/pngs/845/124/png-transparent-matlab-computer-icons-mathworks-matlab-angle-leaf-triangle.png">
+           </td>
+           <td width="80px" align="center">
+            <span><strong>Linux</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg">
+           </td>
+           <td width="80px" align="center">
+            <span><strong>Bash</strong></span><br>
+            <img height="32px" src="https://img.icons8.com/small/512/bash.png">
+           </td>
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            </td> 
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/google_cloud_icon_137536.png">
+            </td>   
         </tr>
     </tbody>
 </table>
